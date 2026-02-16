@@ -19,5 +19,5 @@ Host static websites (e.g., project documentation or personal portfolios) direct
 Collaborative Tools (Wikis, Discussions) –
 Document your project using Wikis, engage with contributors through Discussions, and follow activity feeds.
 
-Cloud IDE & Productivity Features (Codespaces + AI) –
-Develop in a browser or IDE with GitHub Codespaces (a cloud-based development environment), and leverage AI coding assistants like GitHub Copilot for smarter coding suggestions
+git push
+git pull
